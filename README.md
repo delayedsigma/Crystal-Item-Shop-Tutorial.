@@ -1,2 +1,36 @@
-# Crystal-Item-Shop-Tutorial.
-How to suggest an item shop for Project Crystal!
+# Crystal Item Shop Tutorial!
+
+> **Note:**
+> All Fortnite cosmetics are available at [Fortnite.gg](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19).
+
+---
+
+## Configuration File Structure
+
+The item shop is defined by a JSON file containing slots for daily (`daily1` through `daily6`) and featured (`featured1` through `featured4`) items. Each slot includes:
+
+```json
+{
+  "//": "BR Item Shop Config",
+  "daily1": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "daily2": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "daily3": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "daily4": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "daily5": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "daily6": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "featured1": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "featured2": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "featured3": {"itemGrants": ["CID_TBD"], "price": "0"},
+  "featured4": {"itemGrants": ["CID_TBD"], "price": "0"}
+
+
+}
+How To Get ID: To get the CID, etc for an item, go to Fortnite.gg, click on any item, and copy the ID shown at the bottom right of the pop-up. Use that ID to replace "CID_TBD" in your config.
+```
+
+---
+
+## Tips for Editing
+
+* Use a JSON-aware editor like Visual Studio Code for better validation and formatting.
+* Use ChatGPT To validate your Json.
