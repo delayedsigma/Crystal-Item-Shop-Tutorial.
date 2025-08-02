@@ -12,19 +12,47 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 **How To Get ID: To get the CID, etc for an item, go to Fortnite.gg, click on any item, and copy the ID shown at the bottom right of the pop-up. Use that ID to replace "CID_TBD" in your config.**
 ```json
 {
-  "//": "BR Item Shop Config",
-  "daily1": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "daily2": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "daily3": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "daily4": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "daily5": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "daily6": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "featured1": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "featured2": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "featured3": {"itemGrants": ["CID_TBD"], "price": "0"},
-  "featured4": {"itemGrants": ["CID_TBD"], "price": "0"}
-
-
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "daily2": {
+      "itemGrants": [ "CID_TBD"],
+        "price": 0
+    },
+    "daily3": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "daily4": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "daily5": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "daily6": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "featured1": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "featured2": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "featured3": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    },
+    "featured4": {
+        "itemGrants": ["CID_TBD"],
+        "price": 0
+    }   
 }
 ```
 Important:
