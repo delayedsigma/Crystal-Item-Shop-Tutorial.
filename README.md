@@ -14,43 +14,43 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["EID_CelebrationDance"],
         "price": 0
     },
     "daily2": {
-      "itemGrants": [ "CID_TBD"],
+      "itemGrants": [ "Umbrella_Buffet_Silver_P2HUY"],
         "price": 0
     },
     "daily3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["EID_Vivid_I434X"],
+        "price": 300
     },
     "daily4": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["Pickaxe_ID_359_CycloneMale"],
+        "price": 1500
     },
     "daily5": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_333_Athena_Commando_M_Squishy"],
+        "price": 2000
     },
     "daily6": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["EID_NeverGonna"],
+        "price": 100000
     },
     "featured1": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_703_Athena_Commando_M_Cyclone"],
+        "price": 2000
     },
     "featured2": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_761_Athena_Commando_M_CycloneSpace"],
+        "price": 3500
     },
     "featured3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_A_182_Athena_Commando_M_Vivid_LZGQ3"],
+        "price": 1500
     },
     "featured4": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["CID_A_136_Athena_Commando_M_Majesty_YR1GJ"],
         "price": 0
     }   
 }
