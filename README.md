@@ -14,44 +14,44 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["StreetFashionEclipseBundle"],
         "price": 0
     },
     "daily2": {
-      "itemGrants": [ "CID_TBD"],
-        "price": 0
+      "itemGrants": [ "CID_A_040_Athena_Commando_F_Temple"],
+        "price": 1500
     },
     "daily3": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["CID_921_Athena_Commando_F_ParcelPetal"],
         "price": 0
     },
     "daily4": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_926_Athena_Commando_F_StreetFashionDiamond"],
+        "price": 3000
     },
     "daily5": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["Pickaxe_ID_359_CycloneMale"],
+        "price": 1500
     },
     "daily6": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["Glider_ID_349_GimmickMale_MC92O"],
+        "price": 30
     },
     "featured1": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["EID_RichFam"],
+        "price": 1000
     },
     "featured2": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["EID_Chuckle"],
         "price": 0
     },
     "featured3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_A_335_Athena_Commando_M_SleekGlasses_8SYX2"],
+        "price": 1000
     },
     "featured4": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_660_Athena_Commando_F_BandageNinjaBlue"],
+        "price": 4500
     }   
 }
 ```
