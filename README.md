@@ -14,43 +14,43 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
 {
     "//": "BR Item Shop Config",
     "daily1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["CID_A_354_Athena_Commando_F_ShatterFlyEclipse"],
         "price": 0
     },
     "daily2": {
-      "itemGrants": [ "CID_TBD"],
+      "itemGrants": [ "Pickaxe_ID_376_FNCS"],
         "price": 0
     },
     "daily3": {
-        "itemGrants": ["CID_TBD"],
-        "price": 0
+        "itemGrants": ["CID_A_134_Athena_Commando_F_BandageNinjaFire"],
+        "price": 50
     },
     "daily4": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["CID_A_040_Athena_Commando_F_Temple"],
         "price": 0
     },
     "daily5": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["EID_JanuaryBop"],
         "price": 0
     },
     "daily6": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["Glider_ID_196_CycloneMale"],
         "price": 0
     },
     "featured1": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["EID_EgyptianDance"],
         "price": 0
     },
     "featured2": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["Pickaxe_ID_407_HeistShadow"],
         "price": 0
     },
     "featured3": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["Wrap_258_Celestial"],
         "price": 0
     },
     "featured4": {
-        "itemGrants": ["CID_TBD"],
+        "itemGrants": ["CID_970_Athena_Commando_F_RenegadeRaiderHoliday"],
         "price": 0
     }   
 }
